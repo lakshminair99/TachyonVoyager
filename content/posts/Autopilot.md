@@ -1,8 +1,10 @@
 +++
-title = 'Are you in autopilot mode?'
+title = "Are you in autopilot mode?"
 date = 2023-10-07T22:37:40+02:00
 draft = false
 +++
+
+
 
 Most of us get busy with our lives and knowingly or unknowingly, have slipped into autopilot mode at some point or the other. So what is autopilot mode and how do I know if I’m functioning in autopilot mode?
 

@@ -1,4 +1,18 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.tachyonvoyager.com/'
 languageCode = 'en-us'
 title = 'Tachyon Voyager'
 theme = 'ananke'
+SectionPagesMenu = "main"
+Paginate = 7 # this is set low for demonstrating with dummy content. Set to a higher number
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://youtube.com/@TachyonVoyager?feature=shared"
+[menu]
+[[menu.main]]
+    name = 'about'
+    pageRef = '/about'
+    weight = 10
+[[menu.main]]
+    name = 'posts'
+    pageRef = '/posts'
+    weight = 20
