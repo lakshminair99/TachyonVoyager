@@ -1,5 +1,5 @@
 +++
-title = 'Food'
+title = 'Emotional Stability On a Plate: The Mood-Food Science'
 date = 2023-10-21T22:34:12+02:00
 draft = false
 +++
