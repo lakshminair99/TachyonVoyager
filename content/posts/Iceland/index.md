@@ -8,7 +8,7 @@ Three of us (myself, K & S) eliminated our travel fatigue and woke up quite rela
 
 But first, food! We checked for a cafè with good ratings and found one called Grái kötturinn. It was drizzling and also a bit cold outside. We drove to Reykjavik city centre and explored Icelands parking system a bit and walked in the rain to the cafè. Even though Reykjavik is Icelands capital city, the city centre was spacious with too less humans to be seen outiside.
 
-![alt](/static/images/Iceland2_1.jpg)
+![alt](Iceland2_1.jpg)
 
 Unlike outside, the small cafè was crowded at the first glance and I thought that we might have to leave. But fortunately, a man came to us and said that they are leaving and we may take their table. That was perfect timing! Anyway, I was thankful and we took our seats. The table was near to the entrance and we could get a good view of the entire cafè from there. They had a small library set up inside the cafè (those books were written in Icelandic), the wall decoration was interesting with several wall art and paintings. Overall, the ambience was pretty nice. Our eye balls however soon fell on to the family sitting next to us and their plates, what they ordered looked delicious. It was a western breakfast with eggs, bread, butter, potatoes, herbs, beans, bacon etc. All of us ended up ordering the same menu except for the drinks.
 
@@ -26,7 +26,7 @@ On the way back, we also stopped at a small bridge near another coast. We could 
 
 We were getting late for our visit to Blue Lagoon: the geothermal spa and pool. Many of the natural hot springs here are hotter for humans. It is still possible to experience a natural hot spring at certain locations. But in the spas, people take hot water out of the natural hot springs and cool it down for a comfortable experience. The Turquoise blue water in the Blue Lagoon amidst the pitch black lava rocks looked magical.
 
-![alt](/static/images/Iceland2_2.jpg)
+![alt](Iceland2_2.jpg)
 
 We had a fruit drink from the lounge and enjoyed the sight of the waters for few minutes. Later, we got our keys (which are armbands) and headed to the changing room. We had to remove any ornaments (metal) like ear rings because geothermal waters are rich in silica, which is not where you want to go wearing your metal ornaments. We had to take a shower before getting into the pool. It was too cold outside so we literally ran to the warm water. K was afraid of deep water so she stayed in safer depths. We grabbed our first face masks (with volcanic ingredients they say) and then our welcome drinks (no volcanic ingredients). It was then that K and S mentioned that they met the Boston guy here at the reception and speculated that he might have come for a ticket but left as he did not get one. Hyped spas in Iceland always need a ticket in advance and last minutes may not work always. Anyways, Blue Lagoon was a relaxing and splendid experience.
 
