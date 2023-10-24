@@ -16,3 +16,10 @@ url = "https://youtube.com/@TachyonVoyager?feature=shared"
     name = 'posts'
     pageRef = '/posts'
     weight = 20
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
