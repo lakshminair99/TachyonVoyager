@@ -1,4 +1,6 @@
 +++
+categories = ['Category']
+tags = ['Travel']
 title = 'Two extraordinary places to visit on Earth!'
 date = 2023-10-25T20:51:11+02:00
 draft = false

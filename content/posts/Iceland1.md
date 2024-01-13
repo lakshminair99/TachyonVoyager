@@ -1,4 +1,6 @@
 +++
+categories = ['Category']
+tags = ['Travel']
 title = "To the elves, volcanoes and whales: journey from Germany to Iceland"
 date = 2023-10-07T22:37:40+02:00
 draft = false

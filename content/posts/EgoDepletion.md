@@ -1,4 +1,6 @@
 +++
+categories = ['Category']
+tags = ['Psychology']
 title = 'Limited reserve of mental/emotional energy'
 date = 2023-10-27T23:37:51+02:00
 draft = false

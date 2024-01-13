@@ -1,4 +1,6 @@
 +++
+categories = ['Category']
+tags = ['Travel']
 title = 'To the elves, volcanoes and whales: at the shores of the Atlantic Ocean and geothermal wonders of Iceland'
 date = 2023-10-25T00:04:17+02:00
 draft = false

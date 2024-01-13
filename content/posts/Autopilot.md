@@ -1,4 +1,6 @@
 +++
+categories = ['Category']
+tags = ['Psychology']
 title = "Are you in autopilot mode?"
 date = 2023-10-07T22:37:40+02:00
 draft = false

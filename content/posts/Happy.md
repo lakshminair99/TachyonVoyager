@@ -1,4 +1,6 @@
 +++
+categories = ['Category']
+tags = ['Psychology']
 title = 'Unlock Happiness: Debunking the Notion of Being Happy Every Day'
 date = 2023-10-22T21:02:55+02:00
 draft = false

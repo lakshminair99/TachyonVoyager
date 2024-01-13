@@ -1,4 +1,6 @@
 +++
+categories = ['Category']
+tags = ['Psychology']
 title = 'Making the subconscious conscious!'
 date = 2023-10-27T21:59:49+02:00
 draft = false
