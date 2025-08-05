@@ -41,7 +41,7 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass
         run: |
-          wget -O dart-sass.tar.gz https://github.com/sass/dart-sass/releases/download/1.80.8/dart-sass-1.80.8-linux-x64.tar.gz
+          wget -O dart-sass.tar.gz https://github.com/sass/dart-sass/releases/download/1.89.2/dart-sass-1.89.2-linux-x64.tar.gz
           tar -xf dart-sass.tar.gz
           sudo cp -r dart-sass/ /usr/local/bin/
           echo "/usr/local/bin/dart-sass" >> $GITHUB_PATH
