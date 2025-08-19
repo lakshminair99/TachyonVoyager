@@ -1,6 +1,6 @@
 baseURL = 'https://www.tachyonvoyager.com/'
 languageCode = 'en-us'
-title = 'TachyonVoyager!'
+title = 'TachyonVoyager'
 theme = 'ananke'
 SectionPagesMenu = "main"
 Paginate = 7 # this is set low for demonstrating with dummy content. Set to a higher number

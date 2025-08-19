@@ -13,4 +13,4 @@ _My name is Lakshmi Devaraj Nair, born and raised in a small town in Kerala, sou
 _Tachyon Voyager is a name that encapsulates the concept of moving beyond the boundaries of light speed, symbolising swift advancement in the realm of science and exploring relentless new knowledge._
 
 ## Contact
-_I'm looking forward to any feedback, suggestions and advices that you may have about my content. Please get in touch with me at lakshmidnair99@protonmail.com_
+_Please feel free to share any feedback, suggestions, or advice about my content. My email id is lakshmidnair99@protonmail.com. Thank you._
