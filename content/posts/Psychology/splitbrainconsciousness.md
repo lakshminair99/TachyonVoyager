@@ -27,4 +27,4 @@ Extrapolating split brain experiment results may make us wonder about the chance
 
 Split brain experiment shed light to a totally different perspective about consciousness. But consciousness still remains a mystery to science. Australian philosopher David Chalmers introduced the term 'the hard problem of consciousness' in the 1990s because of the difficulty behind explaining why and how subjective experience (qualia) arises from physical brain processes. Why is it that a particular configuration of matter is conscious and others not? We will likely have to wait a long time before we have the resources to study consciousness deeply and understand it in depth. For now, brain merging remain in the realm of science fiction and the mysteries of consciousness in the realm of philosophy. 
 
-Let me know your thougths on consciousness! 
+Let me know your thougths on consciousness!
