@@ -20,7 +20,9 @@ To put it short:
 
 As an example, consider an apple being shown only to the right visual field (processed by the left hemisphere, which controls speech), the subject can name it and draw it with his/her right hand. The left hand, controlled by the right hemisphere, cannot pick it up because it has no access to the left hemispheres visual data. Likewise, if a coconut is shown only to the left visual field (right hemisphere), the subject cannot name it, because speech is controlled by the left hemisphere.
 
-![alt text](split_2.png)
+![alt text](./test.png)
+###### AI generated schematic
+
 
 ## Significance of the outcome
 The experiemt results were mindblowing because, despite the different hemispheres perceiving the world differently and without having a direct cortical connection between them, the subject identified only a single interpreter: the 'I' or the 'self'. It appears that splitting the hemispheres split the contents of consciousness and not consciousness itself. The subjects simply identified gaps in their single field of consciousness. 
