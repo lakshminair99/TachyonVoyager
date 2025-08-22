@@ -7,52 +7,23 @@ A Hugo static site using the Ananke theme.
 ### Initial Clone
 
 ```bash
-# Clone with submodules
-git clone --recurse-submodules https://github.com/lakshminair99/TachyonVoyager.git
+# Clone
+git clone https://github.com/lakshminair99/TachyonVoyager.git
+```
+
+### First time -- init submodule (theme)
+
+```bash
 cd TachyonVoyager
+git submodule update --init themes/ananke
 ```
 
-### If you already cloned without submodules
 
-```bash
-# Initialize and update submodules
-git submodule update --init --recursive
+### Later -- Update theme (do this sometimes)
 ```
-
-## Working with Submodules
-
-### Always pull with submodule updates
-
-```bash
-# Pull latest changes and update submodules
-git pull --recurse-submodules
-```
-
-### Before pushing changes
-
-```bash
-# Make sure submodules are up to date
-git submodule update --remote
-
-# Check submodule status
-git submodule status
-```
-
-### Common Issues and Solutions
-
-**Problem**: Theme not loading or missing files
-**Solution**: Update submodules
-```bash
-git submodule update --init --recursive
-```
-
-**Problem**: Submodule pointer moved backwards
-**Solution**: Update to latest submodule version
-```bash
 git submodule update --remote themes/ananke
-git add themes/ananke
-git commit -m "Update ananke theme to latest"
 ```
+
 
 ## Creating New Posts
 
