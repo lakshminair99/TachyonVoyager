@@ -18,6 +18,8 @@ To put it short:
 #### left hemisphere is dominant for speech & objects in right visual field
 ####  right hemisphere is dominant for nonverbals & objects in left visual field
 
+![alt](splitbrain_1.jpg)
+
 As an example, consider an apple being shown only to the right visual field (processed by the left hemisphere, which controls speech), the subject can name it and draw it with his/her right hand. The left hand, controlled by the right hemisphere, cannot pick it up because it has no access to the left hemispheres visual data. Likewise, if a coconut is shown only to the left visual field (right hemisphere), the subject cannot name it, because speech is controlled by the left hemisphere.
 
 ## Significance of the outcome
