@@ -4,7 +4,7 @@ date = 2025-08-19T22:26:30+02:00
 draft = false
 +++
 
-In this article we will explore the split brain experiment and its findings. We will also take a look at a thought experiment involving consciousness. 
+In this article we will explore the split brain experiment and its findings. We will also delve into a thought experiment about consciousness. 
 
 ## History
 Since the 1940s, patients with severe epilepsy have been treated surgically by cutting corpus callosum in their brain, which is a thick bundle of nerve fibers connecting the brain’s two hemispheres (left and right). Since corpus callosum enabled both the hemispheres to communicate with each other, cutting this pathway means disabling this communication and thereby preventing seizures from spreading from one hemisphere to the other. 
