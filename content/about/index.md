@@ -9,7 +9,7 @@ draft = false
 ## Who I am:
 _My name is Lakshmi Devaraj Nair, born and raised in a small town in Kerala (south of India) and currently living in Germany. Writing began as a hobby in 2023._
 
-_I love nature, philosophy, human psychology, health and travel. My goal with this blog is to pass on the insights I have gathered and spark curiosity in those who are eager to explore further. Since 2025 I'm also trying to integrate the philosophy of non duality into life which has brought immense amount of peace and wellbeing._
+_I love nature, philosophy, human psychology, health and travel. My goal with this blog is to pass on the insights I have gathered on these topics and spark curiosity in those who are eager to explore further. Since 2025 I'm also trying to integrate the philosophy of non duality into life which has brought immense amount of peace and wellbeing._
 
 _I'm happy to connect with you through my writing:)_
 
