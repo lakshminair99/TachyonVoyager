@@ -1,6 +1,6 @@
 +++
 title = 'Split Brain Experiment and Consciousness'
-date = 2025-08-23T22:26:30+02:00
+date = 2025-08-22T22:26:30+02:00
 draft = false
 +++
 
